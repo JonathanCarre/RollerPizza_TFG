@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="roundedImageViewRounded">
+        <item name="cornerFamily">rounded </item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="AppTheme">
+        <!-- Customize your theme here. -->
+        <!-- Other theme attributes -->
+
+        <!-- Define the color of the status bar -->
+        <item name="android:statusBarColor">#D0202C</item>
+    </style>
+</resources>
