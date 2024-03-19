@@ -12,8 +12,23 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.RollerPizza_TFG"
         tools:targetApi="31">
+
+
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_PantallaTransicion2"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_PantallaInicio"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity_Pantalla_registrarse"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity_PantallaTransicion1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
