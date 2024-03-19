@@ -21,6 +21,9 @@
             android:name=".MainActivity_PantallaTransicion2"
             android:exported="false" />
         <activity
+            android:name=".MainActivity_IniciarSesion"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity_PantallaInicio"
             android:exported="false" />
         <activity
