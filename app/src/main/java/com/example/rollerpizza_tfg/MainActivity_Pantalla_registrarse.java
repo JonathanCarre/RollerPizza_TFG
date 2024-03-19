@@ -15,6 +15,7 @@ public class MainActivity_Pantalla_registrarse extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_pantalla_registrarse);
         getWindow().setStatusBarColor(ContextCompat.getColor(MainActivity_Pantalla_registrarse.this,R.color.rojo));
+
         TextView inicia_sesion=findViewById(R.id.textView_iniciasesion);
 
         inicia_sesion.setOnClickListener(new View.OnClickListener() {
