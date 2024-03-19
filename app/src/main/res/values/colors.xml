@@ -3,4 +3,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="mi_color_de_barra_de_notificaciones">#D0202C</color>
+    <color name="colorPressed">#CDCDCD</color> <!-- Color cuando se presiona -->
+    <color name="colorNormal">#D0202C</color>
 </resources>

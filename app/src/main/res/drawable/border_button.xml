@@ -11,5 +11,8 @@
             <stroke android:width="5dp" android:color="#D0202C" />
         </shape>
     </item>
+    <item android:state_pressed="true" android:drawable="@color/colorPressed" />
+
+
 
 </selector>

@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#FFFFFF"
+    android:background="#202020"
     tools:context=".MainActivity_PantallaInicio">
 
     <ImageView
         android:id="@+id/foto_banner"
-        android:layout_width="553dp"
-        android:layout_height="221dp"
+        android:layout_width="542dp"
+        android:layout_height="185dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.639"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,8 +24,9 @@
         android:layout_marginTop="40dp"
         android:layout_marginBottom="204dp"
         android:backgroundTint="#D0202C"
+
         android:text="INICIAR SESIÓN"
-        android:textColor="@color/white"
+        android:textColor="#202020"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -41,7 +42,7 @@
 
         android:layout_height="71dp"
         android:layout_marginBottom="120dp"
-        android:backgroundTint="@color/white"
+        android:backgroundTint="#202020"
         android:text="REGISTRARSE"
         android:textColor="#D0202C"
         android:textSize="20dp"
@@ -60,7 +61,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="60dp"
         android:text="━━━━━━━ DISFRUTA DE TUS PEDIDOS ━━━━━━━"
-        android:textColor="#9B9B9B"
+        android:textColor="#D0202C"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
 
