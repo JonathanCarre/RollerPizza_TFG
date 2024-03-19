@@ -64,7 +64,7 @@
         app:layout_constraintVertical_bias="0.02" />
 
     <TextView
-        android:id="@+id/textView5"
+        android:id="@+id/textView_iniciasesion"
         android:layout_width="100dp"
         android:layout_height="25dp"
         android:text="Inicia Sesión"
