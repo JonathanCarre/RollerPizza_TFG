@@ -18,6 +18,7 @@ public class MainActivity_PantallaTransicion1 extends AppCompatActivity implemen
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_pantalla_transicion1);
         Button pasar_activity_PantallaInicio = findViewById(R.id.button_continuar);

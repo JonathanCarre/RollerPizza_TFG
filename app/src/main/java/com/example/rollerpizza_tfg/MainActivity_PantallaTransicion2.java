@@ -17,8 +17,10 @@ public class MainActivity_PantallaTransicion2 extends AppCompatActivity implemen
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_pantalla_transicion2);
+
         getWindow().setStatusBarColor(ContextCompat.getColor(MainActivity_PantallaTransicion2.this,R.color.black));
         gestureDetector = new GestureDetector(this, this);
         Button pasar_activity_PantallaInicio2 = findViewById(R.id.button_continuar2);
