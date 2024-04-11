@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "970746974249",
+    "firebase_url": "https://rollerpizza-5ab54-default-rtdb.firebaseio.com",
+    "project_id": "rollerpizza-5ab54",
+    "storage_bucket": "rollerpizza-5ab54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970746974249:android:3bc688aebeb45b566f8c38",
+        "android_client_info": {
+          "package_name": "com.example.rollerpizza_tfg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyAM8TJq4QtipYJGJOcvVIAjDvIfyFOIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
