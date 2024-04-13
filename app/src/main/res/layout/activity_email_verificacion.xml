@@ -56,7 +56,7 @@
         android:layout_height="72dp"
         android:layout_marginTop="4dp"
         android:gravity="center"
-        android:text="Si no se redirige automáticamente después de la verificación, haga clic en el botón Continuar."
+        android:text="Si desea acceder al Email para verificar la cuanta de correo Electronico, pulse al botón de Email"
         android:textColor="@color/white"
         android:textSize="14dp"
         app:layout_constraintEnd_toEndOf="parent"
